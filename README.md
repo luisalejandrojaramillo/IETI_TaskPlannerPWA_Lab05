@@ -2,7 +2,10 @@
 
 ## Despliegues
 
-[Firebase](https://tast-planner-ieti.web.app/)
+[Firebase Web App](https://tast-planner-ieti.web.app/)
+
+
+[Firebase App](https://tast-planner-ieti.firebaseapp.com/)
 
 ## Author
 Luis Alejandro Jaramillo R.
