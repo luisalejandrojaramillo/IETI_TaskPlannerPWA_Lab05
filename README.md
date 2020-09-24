@@ -25,6 +25,10 @@ Luis Alejandro Jaramillo R.
 
 ![Step3](/images/3.jpeg)
 
+* Podemos ver que el icon se agredo correctamente
+
+![Step3](/images/4.jpeg)
+
 
 ## Steps
 
@@ -102,6 +106,7 @@ In order to be able to display the install dialog, we need to modify our service
         }
     ```
 7. run from the console the new command *npm run buildeploy* and verify that it works as expected.
+
 
 ## License
 [MIT License ](/LICENSE)
